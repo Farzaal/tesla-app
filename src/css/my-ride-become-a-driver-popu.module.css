@@ -1,0 +1,279 @@
+.undrawFastCarP4Cu1Icon {
+  position: relative;
+  width: 193.13px;
+  height: 132.55px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.driveWithMyRide,
+.registerAsADriverUsingThe {
+  align-self: stretch;
+  position: relative;
+  display: inline-block;
+}
+.driveWithMyRide {
+  letter-spacing: -0.25px;
+  line-height: 36px;
+}
+.registerAsADriverUsingThe {
+  font-size: 16px;
+  line-height: 26px;
+  color: #fff;
+}
+.frameDiv {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frameDiv > * + * {
+  margin-top: 5px;
+}
+.lastNameInput {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.lastNameInput > * + * {
+  margin-left: 18px;
+}
+.inputdefaultTextField {
+  border: 0;
+  background-color: transparent;
+  align-self: stretch;
+  position: relative;
+}
+.frameDiv1 {
+  flex: 1;
+  flex-direction: column;
+  padding: 0 10px 0 0;
+  box-sizing: border-box;
+}
+.frameDiv1,
+.frameDiv2,
+.nameInputDiv {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frameDiv2 {
+  flex: 1;
+  flex-direction: column;
+  padding: 0 0 0 10px;
+  box-sizing: border-box;
+}
+.nameInputDiv {
+  align-self: stretch;
+  flex-direction: row;
+}
+.countryInputAutocomplete {
+  align-self: stretch;
+  position: relative;
+}
+.iDriveMyOwnCar {
+  flex: 1;
+  position: relative;
+  line-height: 26px;
+  display: inline-block;
+}
+.switchonIcon {
+  position: relative;
+  width: 35.01px;
+  height: 20px;
+  flex-shrink: 0;
+}
+.ownsCarSwitch {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  font-size: 16px;
+  color: #fff;
+}
+.selectYourCarType {
+  align-self: stretch;
+  position: relative;
+  line-height: 26px;
+  font-weight: 500;
+  display: inline-block;
+}
+.faSolidcarSideIcon {
+  position: relative;
+  width: 51.4px;
+  height: 28px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.sedanDiv {
+  align-self: stretch;
+  position: relative;
+  font-size: 14px;
+  line-height: 26px;
+  font-family: Roboto;
+  color: #fff;
+  text-align: center;
+  display: inline-block;
+}
+.frameButton {
+  cursor: pointer;
+  border: 1px solid #fff;
+  padding: 0;
+  background-color: transparent;
+  flex: 1;
+  border-radius: 4px;
+  box-sizing: border-box;
+  position: relative;
+  height: 80px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.frameButton > * + * {
+  margin-top: 5px;
+}
+.mdivanPassengerIcon {
+  position: relative;
+  width: 42.46px;
+  height: 28px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.frameDiv4 {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frameDiv4 > * + * {
+  margin-left: 12px;
+}
+.mdicarSportsIcon {
+  position: relative;
+  width: 39.06px;
+  height: 28px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.frameButton2 {
+  cursor: pointer;
+  border: 1px solid #fff;
+  padding: 0;
+  background-color: transparent;
+  flex: 1;
+  align-self: stretch;
+  border-radius: 4px;
+  box-sizing: border-box;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.frameButton2 > * + * {
+  margin-top: 5px;
+}
+.mdicarConvertibleIcon {
+  position: relative;
+  width: 40.38px;
+  height: 28px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.frameDiv3 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frameDiv3 > * + * {
+  margin-left: 10px;
+}
+.carTypeOptions {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: 20px;
+}
+.carTypeOptions > * + * {
+  margin-top: 16px;
+}
+.checkboxesselectedIcon {
+  position: relative;
+  width: 27px;
+  height: 24px;
+  flex-shrink: 0;
+}
+.termsConditions {
+  color: #fba403;
+}
+.iAgreeToMyRidesTermsCo {
+  flex: 1;
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+}
+.policyCheckboxDiv {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  font-size: 14px;
+  color: #fff;
+}
+.policyCheckboxDiv > * + * {
+  margin-left: 10px;
+}
+.myRideBecomeADriverPopu {
+  position: relative;
+  border-radius: 10px;
+  background-color: #282828;
+  width: 680.23px;
+  overflow: auto;
+  display: flex;
+  flex-direction: column;
+  padding: 30px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 90%;
+  max-height: 90%;
+  text-align: left;
+  font-size: 27px;
+  color: #fba403;
+  font-family: Roboto;
+}
+.myRideBecomeADriverPopu > * + * {
+  margin-top: 24px;
+}
+@media screen and (max-width: 768px) {
+  .lastNameInput {
+    flex-direction: column;
+  }
+  .lastNameInput > * + * {
+    margin-top: 18px;
+    margin-left: 0;
+  }
+}
+@media screen and (max-width: 428px) {
+  .frameDiv4 {
+    width: 100%;
+  }
+  .frameDiv3 {
+    flex-direction: column;
+    gap: 10px;
+  }
+  .frameDiv3 > * + * {
+    margin-top: 10px;
+    margin-left: 0;
+  }
+}
